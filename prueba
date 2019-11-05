@@ -1,0 +1,12 @@
+public class JDBClase {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Connection conn;
+        Statement stmt; //por favor eviten usarlo solo para fines academicos
+        PreparedStatement pstat;
+        ResultSet rs;
+    }
+}
